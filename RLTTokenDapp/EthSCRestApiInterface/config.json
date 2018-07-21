@@ -1,0 +1,11 @@
+{
+    "host": "localhost",
+    "port": "80",
+    "network":"http://localhost:8545",
+    "adminAccount":"0x2f1ae9b80a52daeb03fd58c32f4eafba91bd6bc1",
+    "tokenAddress":"0x92d961fed725e69189a21ddd8d6ce2e4c95f9348",
+    "privateKey":"ccfb2e6785e3b0410353e7613a8c4f99eb872794d4baea3bfb81e0f9d3cd1bd0",
+    "gasPriceGwei" : "0x09184e72a000",
+    "gasLimit" : "0x21000000",
+    "chainId" : "3"
+}
